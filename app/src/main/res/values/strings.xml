@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Animated_Splash_Screen</string>
+
+    <string name="splash_screen_name">Animated Splash Screen</string>
+    <string name="main_activity_title">Welcome to Main Activity</string>
+</resources>
